@@ -1458,6 +1458,7 @@ en:
           spam: 'Spam'
           rate_limits: 'Rate Limits'
           developer: 'Developer'
+          embedding: "Embedding"
           uncategorized: 'Uncategorized'
 
     lightbox:

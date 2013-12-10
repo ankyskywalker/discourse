@@ -126,6 +126,8 @@ gem 'sidekiq-failures'
 gem 'sinatra', require: nil
 gem 'slim'  # required for sidekiq-web
 
+gem 'feedzirra'  # required for feed importing
+
 # URGENT fix needed see: https://github.com/cowboyd/therubyracer/pull/280
 gem 'therubyracer-discourse', require: 'v8'
 gem 'thin', require: false
